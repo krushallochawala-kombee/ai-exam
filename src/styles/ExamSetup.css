@@ -1,0 +1,20 @@
+.exam-setup-container {
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #d1dbee;
+}
+
+.exam-setup-card {
+  width: 100%;
+  max-width: 400px;
+  padding: 24px;
+  background-color: rgb(226, 225, 225) !important;
+  border-radius: 8px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
